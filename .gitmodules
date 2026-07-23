@@ -5,6 +5,3 @@
 [submodule "orbitr"]
 	path = orbitr
 	url = https://github.com/drosenman/orbitr
-[submodule "sqlserverconnect"]
-	path = sqlserverconnect
-	url = https://github.com/drosenman/sqlserverconnect
